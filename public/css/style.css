@@ -1,0 +1,15 @@
+.recommendation-item {
+    margin: 20px 0;
+    padding: 15px;
+    border: 2px solid red;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.recommendation-input {
+    margin: 5px;
+    padding: 8px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
